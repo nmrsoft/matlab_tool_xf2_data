@@ -1,0 +1,29 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 9	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= jeannerat
+$$ 2017-05-17 08:21:31.997 +0200  jeannerat@djpro.local
+$$ /Volumes/lacie_case/nmr_data/nmrge300b_data/data/sistare/data/nmr/nmr/esg_aliasing_sign/5/pdata/3/clevels
+$$ process /opt/topspin3.2/prog/mod/dataserver
+##$LEVELS= (0..255)
+-312980883.40932 -173878268.560734 -96599038.0892963 -53666132.2718314
+-29814517.9287952 -16563621.0715529 -9202011.70641827 -5112228.72578793
+5112228.72578793 9202011.70641827 16563621.0715529 29814517.9287952 53666132.2718314
+96599038.0892963 173878268.560734 312980883.40932 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+##$LEVSIGN= 3
+##$MAXLEV= 8
+##$METHOD= 0
+##$NEGBASE= -259142
+##$NEGINCR= 1.8
+##$POSBASE= 259142
+##$POSINCR= 1.8
+##END=

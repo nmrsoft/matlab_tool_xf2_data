@@ -1,0 +1,17 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/topspin2.1pl8/data/sistare/data/nmr/nmr/esg_aliasing_sign/4/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2016-06-23 19:02:26.092 +0200>,<nmr>,<nmrge300b>,<go>,<TOPSPIN 2.1>,
+      <acquisition in progress>)
+(   2,<2016-06-23 19:13:27.279 +0200>,<nmr>,<nmrge300b>,<proc2d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       xfb F2: SI = 8K FT_mod = 6 PKNL = 1 PHC0 = 10.302 PHC1 = -15.67142 F1: SI = 1K WDW = 3 SSB = 2 FT_mod = 5 PHC0 = 90 PHC1 = -180
+       data hash MD5: 8K * 1K
+       B0 12 2D 04 6C 63 D1 48 6F B0 18 A9 A6 6C 9A CB>)
+##END=
+
+$$ hash MD5
+$$ 33 7F B2 58 04 CE A9 F5 A2 3E 59 D6 1E 97 2A CA

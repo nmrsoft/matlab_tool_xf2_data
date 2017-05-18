@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= jeannerat
+$$ 2017-05-17 08:20:43.593 +0200  jeannerat@djpro.local
+$$ /Volumes/lacie_case/nmr_data/nmrge300b_data/data/sistare/data/nmr/nmr/esg_aliasing_sign/5/pdata/2/outd
+$$ process /opt/topspin3.2/prog/mod/edparproc
+##$CURPLOT= <Cups-PDF>
+##$CURPRIN= <$Cups-PDF>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

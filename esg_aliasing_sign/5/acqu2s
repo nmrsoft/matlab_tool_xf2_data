@@ -1,0 +1,18 @@
+##TITLE= Parameter file, TOPSPIN		Version 2.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 129	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2017-02-07 14:10:29.157 +0100  nmr@nmrge300b
+$$ /opt/topspin2.1pl8/data/sistare/data/nmr/nmr/esg_aliasing_sign/5/acqu2s
+$$ process /opt/topspin2.1pl8/prog/mod/go
+##$BF1= 300.33
+##$FnMODE= 6
+##$NUC1= <1H>
+##$O1= 1501.7
+##$SFO1= 300.3315017
+##$SW= 5
+##$SW_h= 1501.6575085
+##$TD= 64
+##END=

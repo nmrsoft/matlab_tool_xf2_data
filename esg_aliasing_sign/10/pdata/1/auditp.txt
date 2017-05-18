@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/topspin2.1pl8/data/sistare/data/nmr/nmr/esg_aliasing_sign/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2016-06-24 11:12:30.723 +0200>,<nmr>,<nmrge300b>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2016-06-24 11:07:27.328 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       E7 34 71 AF D6 37 BA 47 56 E7 E5 D2 37 42 6B ED
+       data hash MD5: 4K * 64
+       C2 9F E1 E6 EB 64 A3 49 96 BD D7 B5 03 B9 94 55>)
+(   2,<2017-02-01 14:41:53.822 +0100>,<nmr>,<nmrge300b>,<proc2d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       xfb F2: SI = 1K WDW = 4 SSB = 2 FT_mod = 6 PKNL = 1 PHC0 = 152.675 PHC1 = 0 F1: SI = 1K ME_mod = 1 NCOEF = 32 WDW = 4 SSB = 2 FT_mod = 5 PHC0 = 0 PHC1 = 0
+       data hash MD5: 1K * 1K
+       04 69 29 FA 69 77 B9 31 6F CE F5 71 0E F9 A2 6F>)
+(   3,<2017-02-01 14:42:08.899 +0100>,<nmr>,<nmrge300b>,<proc2d>,<TOPSPIN 2.1>,
+      <pk2 fgphup F2: PHC0 = -52.85 PHC1 = 0
+       data hash MD5: 1K * 1K
+       63 38 99 AC B1 C9 73 F8 04 47 7E CD 58 6D 33 75>)
+##END=
+
+$$ hash MD5
+$$ 68 BD 71 CC 65 13 2A 41 C5 CE A1 DD CD 5C 5D 60
